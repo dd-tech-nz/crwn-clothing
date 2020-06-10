@@ -14,6 +14,7 @@ const buttonStyles = {
   marginTop: 'auto'
 }
 
+
 const CartDropdown = ({ cartItems, history, dispatch }) => (
   <CartDropDown>
     <CartItems>
